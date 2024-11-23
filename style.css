@@ -10,3 +10,16 @@ body{
     background: black;
     margin: 0px;
 }
+
+header{
+    font-size: 35px;
+    color:deeppink;
+    border-bottom: 3px solid pink;
+    padding: 20px
+
+}
+h1{
+    font-size: 40px;
+}
+.chamada-texto
+margin-right: 5%;
